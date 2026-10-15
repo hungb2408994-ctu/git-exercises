@@ -1,0 +1,3 @@
+Test file
+
+My first GitHub exercise in VS Code.
